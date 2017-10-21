@@ -1,0 +1,4 @@
+name: Consul Integration
+type: module
+description: 'Consul integration'
+core: 8.x

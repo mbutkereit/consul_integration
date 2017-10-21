@@ -1,0 +1,10 @@
+{
+  "name": "drupal/consul_integration",
+  "description": "Consul Integration.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "sensiolabs/consul-php-sdk":"~3.0"
+  }
+}
